@@ -1,0 +1,36 @@
+#movie_div {
+    padding: 20px;
+    padding-top: 40px;
+  }
+  #single_movie_div {
+    margin: 10px;
+  }
+  .title {
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    font-family: 'Amatic SC', cursive;
+  }
+  .class{
+    background-color: black;
+  }
+  .self-center {
+    font-family: 'Amatic SC', cursive;
+    color: bisque;
+  }
+
+  .block {
+    color: red;
+  }
+  .text-gray-700{
+    color: grey;
+  }
+
+  .btn{
+    color: white;
+  }
+  
+  
+  
+  
+  
